@@ -12,9 +12,15 @@ I applied various Python tools to get a better visual understanding of the data.
 This project uses the following software and libraries:
 
 Python
+
 Tensorflow
+
 Keras
+
 pandas
+
 matplotlib
+
 seaborn etc...
+
 Thank You
