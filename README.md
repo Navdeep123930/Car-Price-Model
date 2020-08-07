@@ -1,7 +1,7 @@
 # Car-Price-Model
 
 
-The objective of this mini project is to build a model using Tensorflow which can predict the selling price of a car based on the different features.
+The objective of this mini project is to build a model using Tensorflow which can predict the selling price of a car based on the multiple features.
 
 
 Due to the small amount of presented data in the dataset,we must be carefull to not create an overly complex model, which could lead to overfitting our data.For this, i adopted an architecture based on single Dense layers with just one neuron.
